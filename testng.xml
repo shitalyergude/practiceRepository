@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+   <listener class-name="com.SauceDemo.UtilityClasses.Listeners"></listener>
+</listeners> 
+<test thread-count="6" parallel ="classes" name="ChromeTest">
+     <parameter name = "browserName" value = "Chrome" > </parameter>
+       <classes>
+         <class name="com.SauceDemo.TESTClasses.TC06LogoutFunctionality"/>
+         <class name="com.SauceDemo.TESTClasses.TC02AddToCartSingleProductFunctionality"/>
+         <class name="com.SauceDemo.TESTClasses.TC05DropdownFunctionality"/>
+         <class name="com.SauceDemo.TESTClasses.TC04MenuButtonFunctionality"/>
+         <class name="com.SauceDemo.TESTClasses.TC01LoginFunctionality"/>
+        <class name="com.SauceDemo.TESTClasses.TC03AddToCartMultiProductFunctionality"/>
+    </classes>
+  </test> <!-- Test -->
+
+  <test thread-count="6" name="FirefoxTest">
+     <parameter name = "browserName" value = "Firefox" > </parameter>
+       <classes>
+         <class name="com.SauceDemo.TESTClasses.TC06LogoutFunctionality"/>
+         <class name="com.SauceDemo.TESTClasses.TC02AddToCartSingleProductFunctionality"/>
+         <class name="com.SauceDemo.TESTClasses.TC05DropdownFunctionality"/>
+         <class name="com.SauceDemo.TESTClasses.TC04MenuButtonFunctionality"/>
+         <class name="com.SauceDemo.TESTClasses.TC01LoginFunctionality"/>
+        <class name="com.SauceDemo.TESTClasses.TC03AddToCartMultiProductFunctionality"/>
+    </classes>
+  </test>
+
+</suite> <!-- Suite -->

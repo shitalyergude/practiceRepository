@@ -1,0 +1,314 @@
+2022-05-29 18:53:55,164  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:53:56,441  INFO [main] AAA:52 - URL is open
+2022-05-29 18:54:03,301  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:54:04,905  INFO [main] AAA:52 - URL is open
+2022-05-29 18:54:11,498  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:54:12,741  INFO [main] AAA:52 - URL is open
+2022-05-29 18:54:19,558  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:54:20,739  INFO [main] AAA:52 - URL is open
+2022-05-29 18:55:03,275  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:55:04,677  INFO [main] AAA:52 - URL is open
+2022-05-29 18:55:10,542  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:55:11,705  INFO [main] AAA:52 - URL is open
+2022-05-29 18:55:20,327  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:55:21,371  INFO [main] AAA:52 - URL is open
+2022-05-29 18:55:28,171  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:55:29,107  INFO [main] AAA:52 - URL is open
+2022-05-29 18:55:35,886  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:55:36,775  INFO [main] AAA:52 - URL is open
+2022-05-29 18:55:43,368  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:55:44,286  INFO [main] AAA:52 - URL is open
+2022-05-29 18:55:56,499  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:55:57,567  INFO [main] AAA:52 - URL is open
+2022-05-29 18:56:03,934  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 18:56:04,879  INFO [main] AAA:52 - URL is open
+2022-05-29 19:55:09,787  INFO [TestNG-test=ChromeTest-6] AAA:46 - Firefox browser is open
+2022-05-29 19:55:10,909  INFO [TestNG-test=ChromeTest-4] AAA:46 - Firefox browser is open
+2022-05-29 19:55:11,014  INFO [TestNG-test=ChromeTest-5] AAA:46 - Firefox browser is open
+2022-05-29 19:55:11,288  INFO [TestNG-test=ChromeTest-2] AAA:46 - Firefox browser is open
+2022-05-29 19:55:12,425  INFO [TestNG-test=ChromeTest-3] AAA:46 - Firefox browser is open
+2022-05-29 19:55:12,740  INFO [TestNG-test=ChromeTest-1] AAA:46 - Firefox browser is open
+2022-05-29 19:55:17,123  INFO [TestNG-test=ChromeTest-2] AAA:52 - URL is open
+2022-05-29 19:55:17,860  INFO [TestNG-test=ChromeTest-5] AAA:52 - URL is open
+2022-05-29 19:55:18,081  INFO [TestNG-test=ChromeTest-4] AAA:52 - URL is open
+2022-05-29 19:55:18,842  INFO [TestNG-test=ChromeTest-6] AAA:52 - URL is open
+2022-05-29 19:55:19,931  INFO [TestNG-test=ChromeTest-1] AAA:52 - URL is open
+2022-05-29 19:55:21,850  INFO [TestNG-test=ChromeTest-3] AAA:52 - URL is open
+2022-05-29 19:55:33,677  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 19:55:36,712  INFO [main] AAA:52 - URL is open
+2022-05-29 19:55:43,599  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 19:55:59,392  INFO [main] AAA:52 - URL is open
+2022-05-29 19:56:05,875  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 19:56:11,482  INFO [main] AAA:52 - URL is open
+2022-05-29 19:56:19,243  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 19:56:23,967  INFO [main] AAA:52 - URL is open
+2022-05-29 19:57:02,878  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 19:57:05,927  INFO [main] AAA:52 - URL is open
+2022-05-29 19:57:12,399  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 19:57:15,539  INFO [main] AAA:52 - URL is open
+2022-05-29 20:00:41,392  INFO [TestNG-test=ChromeTest-4] AAA:38 - Chrome browser is open
+2022-05-29 20:00:41,392  INFO [TestNG-test=ChromeTest-3] AAA:38 - Chrome browser is open
+2022-05-29 20:00:41,620  INFO [TestNG-test=ChromeTest-6] AAA:38 - Chrome browser is open
+2022-05-29 20:00:41,694  INFO [TestNG-test=ChromeTest-5] AAA:38 - Chrome browser is open
+2022-05-29 20:00:41,962  INFO [TestNG-test=ChromeTest-1] AAA:38 - Chrome browser is open
+2022-05-29 20:00:42,838  INFO [TestNG-test=ChromeTest-2] AAA:38 - Chrome browser is open
+2022-05-29 20:00:59,661  INFO [TestNG-test=ChromeTest-6] AAA:52 - URL is open
+2022-05-29 20:01:03,302  INFO [TestNG-test=ChromeTest-5] AAA:52 - URL is open
+2022-05-29 20:01:03,624  INFO [TestNG-test=ChromeTest-3] AAA:52 - URL is open
+2022-05-29 20:01:03,977  INFO [TestNG-test=ChromeTest-4] AAA:52 - URL is open
+2022-05-29 20:01:13,398  INFO [TestNG-test=ChromeTest-1] AAA:52 - URL is open
+2022-05-29 20:01:29,668  INFO [TestNG-test=ChromeTest-2] AAA:52 - URL is open
+2022-05-29 20:03:03,164  INFO [TestNG-test=ChromeTest(failed)-3] AAA:46 - Firefox browser is open
+2022-05-29 20:03:03,558  INFO [TestNG-test=ChromeTest(failed)-2] AAA:46 - Firefox browser is open
+2022-05-29 20:03:03,835  INFO [TestNG-test=ChromeTest(failed)-1] AAA:46 - Firefox browser is open
+2022-05-29 20:03:18,281  INFO [TestNG-test=ChromeTest(failed)-3] AAA:52 - URL is open
+2022-05-29 20:03:20,937  INFO [TestNG-test=ChromeTest(failed)-1] AAA:52 - URL is open
+2022-05-29 20:03:21,055  INFO [TestNG-test=ChromeTest(failed)-2] AAA:52 - URL is open
+2022-05-29 20:03:33,820  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 20:03:42,562  INFO [main] AAA:52 - URL is open
+2022-05-29 20:03:43,294  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 20:03:48,405  INFO [main] AAA:52 - URL is open
+2022-05-29 20:03:55,406  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 20:03:58,375  INFO [main] AAA:52 - URL is open
+2022-05-29 20:04:04,947  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 20:04:08,992  INFO [main] AAA:52 - URL is open
+2022-05-29 20:04:14,654  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 20:04:20,849  INFO [main] AAA:52 - URL is open
+2022-05-29 20:04:49,608  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 20:04:54,790  INFO [main] AAA:52 - URL is open
+2022-05-29 20:05:00,544  INFO [main] AAA:46 - Firefox browser is open
+2022-05-29 20:05:05,391  INFO [main] AAA:52 - URL is open
+2022-05-29 20:08:42,678  INFO [TestNG-test=ChromeTest(failed)(failed)-1] AAA:46 - Firefox browser is open
+2022-05-29 20:09:01,719  INFO [TestNG-test=ChromeTest(failed)(failed)-1] AAA:52 - URL is open
+2022-05-30 12:26:06,398  INFO [TestNG-test=ChromeTest-6] AAA:38 - Chrome browser is open
+2022-05-30 12:26:06,404  INFO [TestNG-test=ChromeTest-1] AAA:38 - Chrome browser is open
+2022-05-30 12:26:06,573  INFO [TestNG-test=ChromeTest-3] AAA:38 - Chrome browser is open
+2022-05-30 12:26:06,736  INFO [TestNG-test=ChromeTest-2] AAA:38 - Chrome browser is open
+2022-05-30 12:26:06,894  INFO [TestNG-test=ChromeTest-4] AAA:38 - Chrome browser is open
+2022-05-30 12:26:07,097  INFO [TestNG-test=ChromeTest-5] AAA:38 - Chrome browser is open
+2022-05-30 12:26:11,511  INFO [TestNG-test=ChromeTest-4] AAA:52 - URL is open
+2022-05-30 12:26:13,254  INFO [TestNG-test=ChromeTest-5] AAA:52 - URL is open
+2022-05-30 12:26:13,787  INFO [TestNG-test=ChromeTest-6] AAA:52 - URL is open
+2022-05-30 12:26:13,858  INFO [TestNG-test=ChromeTest-2] AAA:52 - URL is open
+2022-05-30 12:26:13,945  INFO [TestNG-test=ChromeTest-1] AAA:52 - URL is open
+2022-05-30 12:26:14,170  INFO [TestNG-test=ChromeTest-3] AAA:52 - URL is open
+2022-05-30 12:26:49,173  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 12:26:51,199  INFO [main] AAA:52 - URL is open
+2022-05-30 12:26:57,302  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 12:26:59,751  INFO [main] AAA:52 - URL is open
+2022-05-30 12:27:05,628  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 12:27:07,762  INFO [main] AAA:52 - URL is open
+2022-05-30 12:27:13,908  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 12:27:16,643  INFO [main] AAA:52 - URL is open
+2022-05-30 12:27:42,607  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 12:27:45,273  INFO [main] AAA:52 - URL is open
+2022-05-30 12:27:50,804  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 12:27:53,742  INFO [main] AAA:52 - URL is open
+2022-05-30 14:36:47,823  INFO [TestNG-test=ChromeTest-3] AAA:38 - Chrome browser is open
+2022-05-30 14:36:48,213  INFO [TestNG-test=ChromeTest-5] AAA:38 - Chrome browser is open
+2022-05-30 14:36:48,223  INFO [TestNG-test=ChromeTest-4] AAA:38 - Chrome browser is open
+2022-05-30 14:36:48,548  INFO [TestNG-test=ChromeTest-6] AAA:38 - Chrome browser is open
+2022-05-30 14:36:48,644  INFO [TestNG-test=ChromeTest-1] AAA:38 - Chrome browser is open
+2022-05-30 14:36:48,814  INFO [TestNG-test=ChromeTest-2] AAA:38 - Chrome browser is open
+2022-05-30 14:37:08,926  INFO [TestNG-test=ChromeTest-5] AAA:52 - URL is open
+2022-05-30 14:37:09,143  INFO [TestNG-test=ChromeTest-6] AAA:52 - URL is open
+2022-05-30 14:37:09,489  INFO [TestNG-test=ChromeTest-4] AAA:52 - URL is open
+2022-05-30 14:37:09,489  INFO [TestNG-test=ChromeTest-1] AAA:52 - URL is open
+2022-05-30 14:37:10,665  INFO [TestNG-test=ChromeTest-2] AAA:52 - URL is open
+2022-05-30 14:37:10,820  INFO [TestNG-test=ChromeTest-3] AAA:52 - URL is open
+2022-05-30 14:40:10,104  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 14:40:18,341  INFO [main] AAA:52 - URL is open
+2022-05-30 14:40:24,702  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 14:40:35,357  INFO [main] AAA:52 - URL is open
+2022-05-30 14:40:41,294  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 14:40:50,797  INFO [main] AAA:52 - URL is open
+2022-05-30 14:40:56,719  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 14:41:04,437  INFO [main] AAA:52 - URL is open
+2022-05-30 14:41:15,573  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 14:41:25,297  INFO [main] AAA:52 - URL is open
+2022-05-30 14:41:31,067  INFO [main] AAA:46 - Firefox browser is open
+2022-05-30 14:41:57,517  INFO [main] AAA:52 - URL is open
+2022-05-31 15:53:39,461  INFO [TestNG-test=ChromeTest-5] AAA:37 - Chrome browser is open
+2022-05-31 15:53:39,480  INFO [TestNG-test=ChromeTest-3] AAA:37 - Chrome browser is open
+2022-05-31 15:53:40,068  INFO [TestNG-test=ChromeTest-1] AAA:37 - Chrome browser is open
+2022-05-31 15:53:40,100  INFO [TestNG-test=ChromeTest-2] AAA:37 - Chrome browser is open
+2022-05-31 15:53:40,167  INFO [TestNG-test=ChromeTest-6] AAA:37 - Chrome browser is open
+2022-05-31 15:53:40,513  INFO [TestNG-test=ChromeTest-4] AAA:37 - Chrome browser is open
+2022-05-31 15:53:50,866  INFO [TestNG-test=ChromeTest-5] AAA:50 - URL is open
+2022-05-31 15:53:53,264  INFO [TestNG-test=ChromeTest-1] AAA:50 - URL is open
+2022-05-31 15:53:56,472  INFO [TestNG-test=ChromeTest-3] AAA:50 - URL is open
+2022-05-31 15:53:57,047  INFO [TestNG-test=ChromeTest-2] AAA:50 - URL is open
+2022-05-31 15:54:04,235  INFO [TestNG-test=ChromeTest-6] AAA:50 - URL is open
+2022-05-31 15:54:09,693  INFO [TestNG-test=ChromeTest-4] AAA:50 - URL is open
+2022-05-31 15:54:14,749  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 15:56:00,778  INFO [TestNG-test=ChromeTest-5] AAA:37 - Chrome browser is open
+2022-05-31 15:56:00,782  INFO [TestNG-test=ChromeTest-4] AAA:37 - Chrome browser is open
+2022-05-31 15:56:01,614  INFO [TestNG-test=ChromeTest-3] AAA:37 - Chrome browser is open
+2022-05-31 15:56:01,732  INFO [TestNG-test=ChromeTest-1] AAA:37 - Chrome browser is open
+2022-05-31 15:56:01,891  INFO [TestNG-test=ChromeTest-2] AAA:37 - Chrome browser is open
+2022-05-31 15:56:01,946  INFO [TestNG-test=ChromeTest-6] AAA:37 - Chrome browser is open
+2022-05-31 15:56:18,143  INFO [TestNG-test=ChromeTest-1] AAA:50 - URL is open
+2022-05-31 15:56:19,181  INFO [TestNG-test=ChromeTest-1] AAA:28 - Login functionality Test Case Passed
+2022-05-31 15:56:19,422  INFO [TestNG-test=ChromeTest-4] AAA:50 - URL is open
+2022-05-31 15:56:30,045  INFO [TestNG-test=ChromeTest-5] AAA:50 - URL is open
+2022-05-31 15:56:57,537  INFO [TestNG-test=ChromeTest-3] AAA:50 - URL is open
+2022-05-31 15:56:58,693  INFO [TestNG-test=ChromeTest-3] AAA:26 - All products added to cart
+2022-05-31 15:56:59,027  INFO [TestNG-test=ChromeTest-3] AAA:28 - above are the Names of the all the products
+2022-05-31 15:56:59,064  INFO [TestNG-test=ChromeTest-3] AAA:35 - Verified Multiple products add to cart functionality
+2022-05-31 15:57:06,320  INFO [TestNG-test=ChromeTest-6] AAA:50 - URL is open
+2022-05-31 15:58:11,453  INFO [TestNG-test=ChromeTest-2] AAA:50 - URL is open
+2022-05-31 15:58:31,765  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 15:58:34,217  INFO [main] AAA:50 - URL is open
+2022-05-31 15:58:40,460  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 15:58:42,469  INFO [main] AAA:50 - URL is open
+2022-05-31 15:58:48,281  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 15:58:50,597  INFO [main] AAA:50 - URL is open
+2022-05-31 15:58:56,508  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 15:58:58,476  INFO [main] AAA:50 - URL is open
+2022-05-31 15:59:58,973  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 16:00:04,448  INFO [main] AAA:50 - URL is open
+2022-05-31 16:00:05,054  INFO [main] AAA:28 - Login functionality Test Case Passed
+2022-05-31 16:00:09,823  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 16:00:13,443  INFO [main] AAA:50 - URL is open
+2022-05-31 16:00:15,411  INFO [main] AAA:26 - All products added to cart
+2022-05-31 16:00:15,536  INFO [main] AAA:28 - above are the Names of the all the products
+2022-05-31 16:00:15,547  INFO [main] AAA:35 - Verified Multiple products add to cart functionality
+2022-05-31 16:04:10,609  INFO [TestNG-test=ChromeTest-2] AAA:37 - Chrome browser is open
+2022-05-31 16:04:11,466  INFO [TestNG-test=ChromeTest-3] AAA:37 - Chrome browser is open
+2022-05-31 16:04:11,745  INFO [TestNG-test=ChromeTest-5] AAA:37 - Chrome browser is open
+2022-05-31 16:04:11,824  INFO [TestNG-test=ChromeTest-6] AAA:37 - Chrome browser is open
+2022-05-31 16:04:12,134  INFO [TestNG-test=ChromeTest-1] AAA:37 - Chrome browser is open
+2022-05-31 16:04:12,256  INFO [TestNG-test=ChromeTest-4] AAA:37 - Chrome browser is open
+2022-05-31 16:04:16,253  INFO [TestNG-test=ChromeTest-2] AAA:50 - URL is open
+2022-05-31 16:04:20,218  INFO [TestNG-test=ChromeTest-5] AAA:50 - URL is open
+2022-05-31 16:04:20,696  INFO [TestNG-test=ChromeTest-3] AAA:50 - URL is open
+2022-05-31 16:04:22,826  INFO [TestNG-test=ChromeTest-3] AAA:26 - All products added to cart
+2022-05-31 16:04:23,194  INFO [TestNG-test=ChromeTest-3] AAA:28 - above are the Names of the all the products
+2022-05-31 16:04:23,247  INFO [TestNG-test=ChromeTest-3] AAA:35 - Verified Multiple products add to cart functionality
+2022-05-31 16:04:25,368  INFO [TestNG-test=ChromeTest-6] AAA:50 - URL is open
+2022-05-31 16:04:46,367  INFO [TestNG-test=ChromeTest-4] AAA:50 - URL is open
+2022-05-31 16:04:48,117  INFO [TestNG-test=ChromeTest-1] AAA:50 - URL is open
+2022-05-31 16:04:48,748  INFO [TestNG-test=ChromeTest-1] AAA:28 - Login functionality Test Case Passed
+2022-05-31 16:07:31,970  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 16:07:44,007  INFO [main] AAA:50 - URL is open
+2022-05-31 16:07:50,060  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 16:07:54,081  INFO [main] AAA:50 - URL is open
+2022-05-31 16:07:59,773  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 16:08:06,230  INFO [main] AAA:50 - URL is open
+2022-05-31 16:08:12,187  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 16:08:17,701  INFO [main] AAA:50 - URL is open
+2022-05-31 16:08:28,858  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 16:08:36,024  INFO [main] AAA:50 - URL is open
+2022-05-31 16:08:36,685  INFO [main] AAA:28 - Login functionality Test Case Passed
+2022-05-31 16:08:41,825  INFO [main] AAA:44 - Firefox browser is open
+2022-05-31 16:08:49,579  INFO [main] AAA:50 - URL is open
+2022-05-31 16:08:51,615  INFO [main] AAA:26 - All products added to cart
+2022-05-31 16:08:51,766  INFO [main] AAA:28 - above are the Names of the all the products
+2022-05-31 16:08:51,778  INFO [main] AAA:35 - Verified Multiple products add to cart functionality
+2022-05-31 16:37:41,941  INFO [TestNG-test=ChromeTest-6] AAA:38 - Chrome browser is open
+2022-05-31 16:37:42,839  INFO [TestNG-test=ChromeTest-5] AAA:38 - Chrome browser is open
+2022-05-31 16:37:42,840  INFO [TestNG-test=ChromeTest-1] AAA:38 - Chrome browser is open
+2022-05-31 16:37:42,962  INFO [TestNG-test=ChromeTest-3] AAA:38 - Chrome browser is open
+2022-05-31 16:37:43,620  INFO [TestNG-test=ChromeTest-2] AAA:38 - Chrome browser is open
+2022-05-31 16:37:43,709  INFO [TestNG-test=ChromeTest-4] AAA:38 - Chrome browser is open
+2022-05-31 16:38:03,308  INFO [TestNG-test=ChromeTest-6] AAA:51 - URL is open
+2022-05-31 16:38:09,301  INFO [TestNG-test=ChromeTest-3] AAA:51 - URL is open
+2022-05-31 16:38:09,718  INFO [TestNG-test=ChromeTest-1] AAA:51 - URL is open
+2022-05-31 16:38:10,041  INFO [TestNG-test=ChromeTest-4] AAA:51 - URL is open
+2022-05-31 16:38:10,484  INFO [TestNG-test=ChromeTest-5] AAA:51 - URL is open
+2022-05-31 16:38:10,793  INFO [TestNG-test=ChromeTest-2] AAA:51 - URL is open
+2022-05-31 16:38:12,327  INFO [TestNG-test=ChromeTest-1] AAA:29 - Login functionality Test Case Passed
+2022-05-31 16:38:13,408  INFO [TestNG-test=ChromeTest-3] AAA:26 - All products added to cart
+2022-05-31 16:38:15,243  INFO [TestNG-test=ChromeTest-3] AAA:28 - above are the Names of the all the products
+2022-05-31 16:38:15,309  INFO [TestNG-test=ChromeTest-3] AAA:35 - Verified Multiple products add to cart functionality
+2022-05-31 16:43:18,435  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:43:20,203  INFO [main] AAA:51 - URL is open
+2022-05-31 16:43:24,868  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:43:40,056  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:43:43,706  INFO [main] AAA:51 - URL is open
+2022-05-31 16:43:50,198  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:43:53,084  INFO [main] AAA:51 - URL is open
+2022-05-31 16:44:02,038  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:44:12,742  INFO [main] AAA:51 - URL is open
+2022-05-31 16:44:17,227  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:45:07,901  INFO [main] AAA:51 - URL is open
+2022-05-31 16:54:12,099  INFO [TestNG-test=ChromeTest-4] AAA:38 - Chrome browser is open
+2022-05-31 16:54:13,995  INFO [TestNG-test=ChromeTest-6] AAA:38 - Chrome browser is open
+2022-05-31 16:54:14,033  INFO [TestNG-test=ChromeTest-2] AAA:38 - Chrome browser is open
+2022-05-31 16:54:14,046  INFO [TestNG-test=ChromeTest-3] AAA:38 - Chrome browser is open
+2022-05-31 16:54:14,255  INFO [TestNG-test=ChromeTest-5] AAA:38 - Chrome browser is open
+2022-05-31 16:54:14,284  INFO [TestNG-test=ChromeTest-1] AAA:38 - Chrome browser is open
+2022-05-31 16:54:36,498  INFO [TestNG-test=ChromeTest-6] AAA:51 - URL is open
+2022-05-31 16:54:36,726  INFO [TestNG-test=ChromeTest-4] AAA:51 - URL is open
+2022-05-31 16:54:39,217  INFO [TestNG-test=ChromeTest-2] AAA:51 - URL is open
+2022-05-31 16:54:39,565  INFO [TestNG-test=ChromeTest-1] AAA:51 - URL is open
+2022-05-31 16:54:41,364  INFO [TestNG-test=ChromeTest-1] AAA:30 - Login functionality Test Case Passed
+2022-05-31 16:54:43,853  INFO [TestNG-test=ChromeTest-5] AAA:51 - URL is open
+2022-05-31 16:55:00,573  INFO [TestNG-test=ChromeTest-3] AAA:51 - URL is open
+2022-05-31 16:55:01,597  INFO [TestNG-test=ChromeTest-3] AAA:26 - All products added to cart
+2022-05-31 16:55:01,836  INFO [TestNG-test=ChromeTest-3] AAA:28 - above are the Names of the all the products
+2022-05-31 16:55:01,865  INFO [TestNG-test=ChromeTest-3] AAA:35 - Verified Multiple products add to cart functionality
+2022-05-31 16:57:22,524  INFO [TestNG-test=ChromeTest-2] AAA:38 - Chrome browser is open
+2022-05-31 16:57:23,828  INFO [TestNG-test=ChromeTest-4] AAA:38 - Chrome browser is open
+2022-05-31 16:57:23,964  INFO [TestNG-test=ChromeTest-5] AAA:38 - Chrome browser is open
+2022-05-31 16:57:24,241  INFO [TestNG-test=ChromeTest-1] AAA:38 - Chrome browser is open
+2022-05-31 16:57:24,282  INFO [TestNG-test=ChromeTest-6] AAA:38 - Chrome browser is open
+2022-05-31 16:57:24,286  INFO [TestNG-test=ChromeTest-3] AAA:38 - Chrome browser is open
+2022-05-31 16:57:27,945  INFO [TestNG-test=ChromeTest-4] AAA:51 - URL is open
+2022-05-31 16:57:29,696  INFO [TestNG-test=ChromeTest-1] AAA:51 - URL is open
+2022-05-31 16:57:30,529  INFO [TestNG-test=ChromeTest-2] AAA:51 - URL is open
+2022-05-31 16:57:31,060  INFO [TestNG-test=ChromeTest-5] AAA:51 - URL is open
+2022-05-31 16:57:32,080  INFO [TestNG-test=ChromeTest-3] AAA:51 - URL is open
+2022-05-31 16:57:32,136  INFO [TestNG-test=ChromeTest-6] AAA:51 - URL is open
+2022-05-31 16:57:35,096  INFO [TestNG-test=ChromeTest-1] AAA:30 - Login functionality Test Case Passed
+2022-05-31 16:57:36,998  INFO [TestNG-test=ChromeTest-3] AAA:26 - All products added to cart
+2022-05-31 16:57:37,375  INFO [TestNG-test=ChromeTest-3] AAA:28 - above are the Names of the all the products
+2022-05-31 16:57:37,419  INFO [TestNG-test=ChromeTest-3] AAA:35 - Verified Multiple products add to cart functionality
+2022-05-31 16:58:01,477  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:58:16,444  INFO [main] AAA:51 - URL is open
+2022-05-31 16:58:21,276  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:58:36,875  INFO [main] AAA:51 - URL is open
+2022-05-31 16:58:41,941  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:59:04,000  INFO [main] AAA:51 - URL is open
+2022-05-31 16:59:08,917  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:59:23,875  INFO [main] AAA:51 - URL is open
+2022-05-31 16:59:33,958  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 16:59:51,903  INFO [main] AAA:51 - URL is open
+2022-05-31 16:59:52,747  INFO [main] AAA:30 - Login functionality Test Case Passed
+2022-05-31 16:59:57,027  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 17:00:10,662  INFO [main] AAA:51 - URL is open
+2022-05-31 17:00:12,844  INFO [main] AAA:26 - All products added to cart
+2022-05-31 17:00:13,002  INFO [main] AAA:28 - above are the Names of the all the products
+2022-05-31 17:00:13,013  INFO [main] AAA:35 - Verified Multiple products add to cart functionality
+2022-05-31 17:13:52,155  INFO [TestNG-test=ChromeTest-5] AAA:38 - Chrome browser is open
+2022-05-31 17:13:52,474  INFO [TestNG-test=ChromeTest-3] AAA:38 - Chrome browser is open
+2022-05-31 17:13:52,507  INFO [TestNG-test=ChromeTest-6] AAA:38 - Chrome browser is open
+2022-05-31 17:13:52,549  INFO [TestNG-test=ChromeTest-1] AAA:38 - Chrome browser is open
+2022-05-31 17:13:52,552  INFO [TestNG-test=ChromeTest-2] AAA:38 - Chrome browser is open
+2022-05-31 17:13:52,576  INFO [TestNG-test=ChromeTest-4] AAA:38 - Chrome browser is open
+2022-05-31 17:13:56,751  INFO [TestNG-test=ChromeTest-5] AAA:51 - URL is open
+2022-05-31 17:13:59,181  INFO [TestNG-test=ChromeTest-4] AAA:51 - URL is open
+2022-05-31 17:13:59,330  INFO [TestNG-test=ChromeTest-6] AAA:51 - URL is open
+2022-05-31 17:13:59,782  INFO [TestNG-test=ChromeTest-3] AAA:51 - URL is open
+2022-05-31 17:13:59,938  INFO [TestNG-test=ChromeTest-2] AAA:51 - URL is open
+2022-05-31 17:14:00,168  INFO [TestNG-test=ChromeTest-1] AAA:51 - URL is open
+2022-05-31 17:14:04,451  INFO [TestNG-test=ChromeTest-3] AAA:26 - All products added to cart
+2022-05-31 17:14:04,468  INFO [TestNG-test=ChromeTest-1] AAA:30 - Login functionality Test Case Passed
+2022-05-31 17:14:04,902  INFO [TestNG-test=ChromeTest-3] AAA:28 - above are the Names of the all the products
+2022-05-31 17:14:04,948  INFO [TestNG-test=ChromeTest-3] AAA:35 - Verified Multiple products add to cart functionality
+2022-05-31 17:15:17,105  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 17:15:22,213  INFO [main] AAA:51 - URL is open
+2022-05-31 17:15:27,353  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 17:15:37,811  INFO [main] AAA:51 - URL is open
+2022-05-31 17:15:43,667  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 17:16:08,222  INFO [main] AAA:51 - URL is open
+2022-05-31 17:16:13,803  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 17:16:30,853  INFO [main] AAA:51 - URL is open
+2022-05-31 17:16:41,185  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 17:18:04,309  INFO [main] AAA:51 - URL is open
+2022-05-31 17:18:05,169  INFO [main] AAA:30 - Login functionality Test Case Passed
+2022-05-31 17:18:10,375  INFO [main] AAA:45 - Firefox browser is open
+2022-05-31 17:18:31,252  INFO [main] AAA:51 - URL is open
+2022-05-31 17:18:33,528  INFO [main] AAA:26 - All products added to cart
+2022-05-31 17:18:33,668  INFO [main] AAA:28 - above are the Names of the all the products
+2022-05-31 17:18:33,679  INFO [main] AAA:35 - Verified Multiple products add to cart functionality

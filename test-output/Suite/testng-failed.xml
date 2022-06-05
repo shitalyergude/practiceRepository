@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.SauceDemo.UtilityClasses.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="classes" name="ChromeTest(failed)">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="com.SauceDemo.TESTClasses.TC02AddToCartSingleProductFunctionality">
+        <methods>
+          <include name="SingleProductAddTOCartFunctionality"/>
+          <include name="tearDown"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC02AddToCartSingleProductFunctionality -->
+      <class name="com.SauceDemo.TESTClasses.TC04MenuButtonFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="menuButtonFunctionality"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC04MenuButtonFunctionality -->
+      <class name="com.SauceDemo.TESTClasses.TC01LoginFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyLoginFunctionality"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC01LoginFunctionality -->
+      <class name="com.SauceDemo.TESTClasses.TC03AddToCartMultiProductFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="multiProductAddTOCartFunctionality"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC03AddToCartMultiProductFunctionality -->
+      <class name="com.SauceDemo.TESTClasses.TC06LogoutFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="logoutFunctionality"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC06LogoutFunctionality -->
+      <class name="com.SauceDemo.TESTClasses.TC05DropdownFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="DropDownFunctionality"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC05DropdownFunctionality -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+  <test thread-count="5" name="FirefoxTest(failed)">
+    <parameter name="browserName" value="Firefox"/>
+    <classes>
+      <class name="com.SauceDemo.TESTClasses.TC02AddToCartSingleProductFunctionality">
+        <methods>
+          <include name="SingleProductAddTOCartFunctionality"/>
+          <include name="tearDown"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC02AddToCartSingleProductFunctionality -->
+      <class name="com.SauceDemo.TESTClasses.TC04MenuButtonFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="menuButtonFunctionality"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC04MenuButtonFunctionality -->
+      <class name="com.SauceDemo.TESTClasses.TC01LoginFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyLoginFunctionality"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC01LoginFunctionality -->
+      <class name="com.SauceDemo.TESTClasses.TC03AddToCartMultiProductFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="multiProductAddTOCartFunctionality"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC03AddToCartMultiProductFunctionality -->
+      <class name="com.SauceDemo.TESTClasses.TC06LogoutFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="logoutFunctionality"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC06LogoutFunctionality -->
+      <class name="com.SauceDemo.TESTClasses.TC05DropdownFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="DropDownFunctionality"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TESTClasses.TC05DropdownFunctionality -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
